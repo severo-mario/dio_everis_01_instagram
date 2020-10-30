@@ -7,10 +7,7 @@ Aplicar os conceitos que foram apresentados em HTML5 e CSS3, criando um “clone
 * FlexBox
 * Responsividade
 
-
-
-link de acesso: 
-
+https://severo-mario.github.io/dio_everis_01_instagram/
 
 
 #everis #dio
